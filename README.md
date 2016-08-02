@@ -1,6 +1,6 @@
 [:clipboard:](https://github.com/NMSFrance/ourdoc)
-# No Man's Sky France
-C'est là que tout se passe ! C'est le site web de NMS France.
+# No Man's Sky France : Panel pour administrateurs
+Tableau de bord pour gérer les contenus que No Man's Sky France
 
 # Prérequis
 npm : https://nodejs.org/en/download/
